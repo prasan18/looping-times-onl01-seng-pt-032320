@@ -1,6 +1,4 @@
-def using_times 
-  levitation force = 7
-  until (levitation force == 7)
+def using_7_times
 puts "Wingardium Leviosa"
 end
 end
