@@ -1,7 +1,7 @@
 def using_times
   
 puts "Wingardium_Leviosa"
-end
+binding.pry
 7.times do
   puts "Wingardium Leviosa"
 end
