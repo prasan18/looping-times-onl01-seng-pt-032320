@@ -1,4 +1,4 @@
-def using_times (wingardium leviosa)
+def using_times_wingardium leviosa
   
 puts "Wingardium_Leviosa"
 
