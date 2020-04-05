@@ -1,4 +1,4 @@
-def using_times(phrase = wingardium_leviosa)
+def using_times (wingardium leviosa)
   
 puts "Wingardium_Leviosa"
 
